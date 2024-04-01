@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|c:\\users\\vigne\\onedrive\\desktop\\exe\\mylinus\\mylinus\\mylinus\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|solutionrelative:mylinus\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\mylinus\\mylinusmodel\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|solutionrelative:mylinus\\mylinusmodel\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|c:\\users\\vigne\\onedrive\\desktop\\exe\\mylinus\\mylinus\\mylinus\\mylinusmodel\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|solutionrelative:mylinus\\mylinusmodel\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MyLinus||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|c:\\users\\vigne\\onedrive\\desktop\\exe\\mylinus\\mylinus\\mylinus\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|solutionrelative:mylinus\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|c:\\users\\vigne\\onedrive\\desktop\\exe\\mylinus\\mylinus\\mylinus\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|solutionrelative:mylinus\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|c:\\users\\vigne\\onedrive\\desktop\\exe\\mylinus\\mylinus\\mylinus\\mylinusmodel\\terminal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|solutionrelative:mylinus\\mylinusmodel\\terminal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|c:\\users\\vigne\\onedrive\\desktop\\exe\\mylinus\\mylinus\\mylinus\\mylinusmodel\\sshmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|solutionrelative:mylinus\\mylinusmodel\\sshmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|c:\\users\\vigne\\onedrive\\desktop\\exe\\mylinus\\mylinus\\mylinus\\mylinusmodel\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|solutionrelative:mylinus\\mylinusmodel\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|c:\\users\\vigne\\onedrive\\desktop\\exe\\mylinus\\mylinus\\mylinus\\mylinusmodel\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|solutionrelative:mylinus\\mylinusmodel\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A86196-0F34-4A20-AF99-DF8B711D7A7F}|MyLinus\\MyLinus.csproj|c:\\users\\vigne\\onedrive\\desktop\\exe\\mylinus\\mylinus\\mylinus\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\MyLinusModel\\Login.cs",
+              "RelativeDocumentMoniker": "MyLinus\\MyLinusModel\\Login.cs",
+              "ToolTip": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\MyLinusModel\\Login.cs",
+              "RelativeToolTip": "MyLinus\\MyLinusModel\\Login.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:00:53.903Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "MyLinus\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "MyLinus\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:01:24.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyLinus",
+              "DocumentMoniker": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\MyLinus.csproj",
+              "RelativeDocumentMoniker": "MyLinus\\MyLinus.csproj",
+              "ToolTip": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\MyLinus.csproj",
+              "RelativeToolTip": "MyLinus\\MyLinus.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-01T15:53:55.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "MyLinus\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\Properties\\Settings.settings",
+              "RelativeToolTip": "MyLinus\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-04-01T15:53:52.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "MyLinus\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "MyLinus\\Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:53:50.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Terminal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\MyLinusModel\\Terminal.Designer.cs",
+              "RelativeDocumentMoniker": "MyLinus\\MyLinusModel\\Terminal.Designer.cs",
+              "ToolTip": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\MyLinusModel\\Terminal.Designer.cs",
+              "RelativeToolTip": "MyLinus\\MyLinusModel\\Terminal.Designer.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:23:29.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Terminal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\MyLinusModel\\Terminal.cs",
+              "RelativeDocumentMoniker": "MyLinus\\MyLinusModel\\Terminal.cs",
+              "ToolTip": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\MyLinusModel\\Terminal.cs [Design]",
+              "RelativeToolTip": "MyLinus\\MyLinusModel\\Terminal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:23:07.846Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SSHManager.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\MyLinusModel\\SSHManager.cs",
+              "RelativeDocumentMoniker": "MyLinus\\MyLinusModel\\SSHManager.cs",
+              "ToolTip": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\MyLinusModel\\SSHManager.cs",
+              "RelativeToolTip": "MyLinus\\MyLinusModel\\SSHManager.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwBwAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:56:15.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\MyLinusModel\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "MyLinus\\MyLinusModel\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\MyLinusModel\\Login.Designer.cs",
+              "RelativeToolTip": "MyLinus\\MyLinusModel\\Login.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wGMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:42:22.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\MyLinusModel\\Login.cs",
+              "RelativeDocumentMoniker": "MyLinus\\MyLinusModel\\Login.cs",
+              "ToolTip": "C:\\Users\\vigne\\OneDrive\\Desktop\\EXE\\MyLinus\\MyLinus\\MyLinus\\MyLinusModel\\Login.cs [Design]",
+              "RelativeToolTip": "MyLinus\\MyLinusModel\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:56:25.19Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
